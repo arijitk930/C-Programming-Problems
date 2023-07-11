@@ -1,2 +1,2 @@
 # C_Problems
-Some easy problems of C language.
+Some easy to advance problems in C language.
